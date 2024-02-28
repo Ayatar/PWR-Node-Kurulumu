@@ -6,7 +6,6 @@
 
 > Donanımı çok düşük - Ödül belirsiz - Aktif cihazlarımın yanına kurdum
 
-> Topluluk kanalları: [Telegram Duyuru](https://t.me/RuesAnnouncement) - [Telegram Sohbet](https://t.me/RuesChat) - [Yeni Kanalımız](https://whatsapp.com/channel/0029VaBcj7V1dAw1H2KhMk34)
 
 > Sağ üstten `fork`-`star` atmayı unutmayın.
 
